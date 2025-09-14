@@ -1,3 +1,4 @@
+<img width="1917" height="918" alt="image" src="https://github.com/user-attachments/assets/f5fad383-6bfe-43bf-b514-682d5972381b" />
 
 # 📊 Social Media Engagement Prediction
 
